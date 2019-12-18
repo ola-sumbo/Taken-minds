@@ -1,0 +1,7 @@
+numpy
+pandas
+xlrd
+seaborn
+request
+matplotlib
+beautifulsoup4
